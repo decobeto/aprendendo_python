@@ -1,9 +1,9 @@
 import math
 #esse comando é usado para importar módulos
 
-a = int(input("Digite o valor de a: "))
-b = int(input("Digite o valor de b: "))
-c = int(input("Digite o valor de c: "))
+a = float(input("Digite o valor de a: "))
+b = float(input("Digite o valor de b: "))
+c = float(input("Digite o valor de c: "))
 
 delta = ((b ** 2) - (4 * a * c))
 
